@@ -1,8 +1,8 @@
 {
 	"Name": "Antonio Scrim Customs",
-	"Version": 1792320769,
+	"Version": 1792323430,
 	"MaxPerkRepetition": 1,
-	"GlobalNotes": "",
+	"GlobalNotes": "For items (because i'm lazy) You are only permitted a blue flashlight with brown addons, a blue medkit with brown addons, and a fire cracker (unless the balancing says otherwise)\nAnd for offerings (again cuz i'm lazy) the killer MUST use the Cut Coin, and the survs MUST use Vigo's Shroud, Annotated Blueprint, and Torn blueprint.",
 	"Tiers": [
 		{
 			"Name": "General",
@@ -381,7 +381,7 @@
 		{
 			"Name": "The Trapper",
 			"KillerNotes": "",
-			"IsDisabled": true,
+			"IsDisabled": false,
 			"Map": [
 				"36"
 			],
@@ -2449,7 +2449,7 @@
 		},
 		{
 			"Name": "The Mastermind",
-			"KillerNotes": "",
+			"KillerNotes": "OHHHHHHHHH I'M WESKING IT. OHHHHHHHHHHHHHH I'M WESKING IT SO GOOD. OHHHHHHH MY UROBUROS IS GOING EVERYWHERE, OHHHHHHHHHHHHHHH I'M GONNA BOUND.",
 			"IsDisabled": false,
 			"Map": [
 				"0"
